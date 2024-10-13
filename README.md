@@ -1,6 +1,6 @@
 # Carbon-Wise Smart Contract Documentation
 
-![Image](./carbon-wise-logo.svg)
+![Image](./Carbon-Wise-Logo.svg)
 
 ## Overview
 
